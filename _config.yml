@@ -115,6 +115,21 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:krag57@yahoo.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/krag57"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/krag57"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
 
 footer:
   links:
