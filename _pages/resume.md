@@ -11,46 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Statistics, University of Nebraske-Lincoln, 2021 (expected)
+* M.S. in Statistics, Texas Tech University, 2019
+* B.S. in Statistics, University of Peradeniya, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Assistant
+  * University of Nebraske-Lincoln
+  * Research: Bayesian model for dose-response curves in pharmocological studies
+  *Spring 2020 - Present: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Part-time Instructor
+  * Texas Tech University
+  *Fall 2017- Fall 2019: 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical: 
+  * Machine learning, Supervised learning techniques (Random Forest, SVM, Naïve Bayes, Text mining, K-nearest Neighbors), Unsupervised learning techniques (Hierarchical and K-means clustering, PCA), Regression models with regularization, Decision Tree, A/B testing, MCMC techniques, Time series analysis, Bayesian statistics, Pattern recognition
+* Programming: 
+  * Python (Pandas, Numpy, Matplotlib, scikit-learn), R, SQL, SAS, MATLAB, Git, MS Office
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
