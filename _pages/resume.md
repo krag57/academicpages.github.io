@@ -20,18 +20,18 @@ Work experience
 * Graduate Research Assistant
   * University of Nebraske-Lincoln
   * Research: Bayesian model for dose-response curves in pharmocological studies
-  *Spring 2020 - Present: 
+  * *Spring 2020 - Present:* 
 
 * Graduate Part-time Instructor
   * Texas Tech University
-  *Fall 2017- Fall 2019: 
+  * *Fall 2017- Fall 2019:* 
   
 Skills
 ======
 * Technical: 
-  * *Machine learning, Supervised learning techniques (Random Forest, SVM, Naïve Bayes, Text mining, K-nearest Neighbors), Unsupervised learning techniques (Hierarchical and K-means clustering, PCA), Regression models with regularization, Decision Tree, A/B testing, MCMC techniques, Time series analysis, Bayesian statistics, Pattern recognition
+  * *Machine learning, Supervised learning techniques (Random Forest, SVM, Naïve Bayes, Text mining, K-nearest Neighbors), Unsupervised learning techniques (Hierarchical and K-means clustering, PCA), Regression models with regularization, Decision Tree, A/B testing, MCMC techniques, Time series analysis, Bayesian statistics, Pattern recognition*
 * Programming: 
-  * *Python (Pandas, Numpy, Matplotlib, scikit-learn), R, SQL, SAS, MATLAB, Git, MS Office
+  * *Python (Pandas, Numpy, Matplotlib, scikit-learn), R, SQL, SAS, MATLAB, Git, MS Office*
 
 Publications
 ======
