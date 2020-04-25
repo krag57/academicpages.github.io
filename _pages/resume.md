@@ -24,7 +24,7 @@ Work experience
 
 * Graduate Part-time Instructor
   * Texas Tech University
-  * **Fall 2017- Fall 2019:* 
+  * *Fall 2017- Fall 2019:* 
   
 Skills
 ======
